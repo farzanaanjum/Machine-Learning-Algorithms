@@ -1,4 +1,5 @@
 # Machine-Learning-Algorithms
 
-![8890786496](https://user-images.githubusercontent.com/30755050/173197314-19723577-2453-4b5a-aaaf-58db6e94b549.jpeg)
+![1](https://user-images.githubusercontent.com/30755050/173197478-8dc4cbd1-fbe6-4604-9782-25e76ac4d335.png)
+
 
