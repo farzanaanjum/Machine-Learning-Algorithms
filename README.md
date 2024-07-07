@@ -6,10 +6,11 @@ Classification Algorthims
 1. Linear Regression
 2. Logistic Regression
 3. Support Vector Machine
-4. Decision Algorithm
-5. Random Forest
-6. KNN - k-Nearest Neighbors
-7. Naive Bayes
+   - Dataset: ![2](https://drive.google.com/drive/my-drive)
+5. Decision Algorithm
+6. Random Forest
+7. KNN - k-Nearest Neighbors
+8. Naive Bayes
 
 
 
