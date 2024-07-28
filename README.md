@@ -10,7 +10,7 @@ Classification Algorthims
        - Dataset: https://drive.google.com/file/d/1wGNE3p0Dq3w90zeNHFpna3jEDqX3b7gV/view?usp=sharing
    - SVM-Spam Text Message Classification
       - Dataset: https://drive.google.com/file/d/1yQTCWF3ODmc-fOe4AEBy5Li2bTK_lmLa/view?usp=sharing
-                 https://drive.google.com/file/d/1dnrzXkmIOuBY_02WgcRSvPnn-u2FZgRX/view?usp=sharing
+                     https://drive.google.com/file/d/1dnrzXkmIOuBY_02WgcRSvPnn-u2FZgRX/view?usp=sharing
      
 4. Decision Algorithm
    - Dataset:
