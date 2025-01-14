@@ -9,8 +9,7 @@ Classification Algorthims
    - SVM-IMDB-Movie-Review-Data
        - Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
    - SVM-Spam Text Message Classification
-      - Dataset: https://drive.google.com/file/d/1yQTCWF3ODmc-fOe4AEBy5Li2bTK_lmLa/view?usp=sharing
-                     https://drive.google.com/file/d/1dnrzXkmIOuBY_02WgcRSvPnn-u2FZgRX/view?usp=sharing
+      - Dataset: Find in Support Vector Machine repo. 
      
 4. Decision Tree Algorithms:
    - Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
