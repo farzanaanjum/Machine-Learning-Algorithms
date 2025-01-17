@@ -16,6 +16,7 @@
    - Random-Forest-Credit-card-fraud-detection
       - Datasets - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 6. KNN - k-Nearest Neighbors
+    - Datasets: https://www.kaggle.com/datasets/vijayaadithyanvg/iris-dataset
 7. Naive Bayes
    - Naive-Bayes-Text-Classification
       - Datasets: https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
