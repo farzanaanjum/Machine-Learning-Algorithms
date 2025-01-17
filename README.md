@@ -17,6 +17,9 @@
       - Datasets - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 6. KNN - k-Nearest Neighbors
 7. Naive Bayes
-
+   - Naive-Bayes-Text-Classification
+      - Datasets: https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
+   - MultiNomial-Naive-Bayes Spam-Filters-Data
+      - Datasets: https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
 
 
