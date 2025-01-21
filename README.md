@@ -17,14 +17,14 @@
 7. Naive Bayes
 
 ### UnSupervised Learning ALgorithms
-**1. Clustering**
+#### 1. Clustering
     - Singular Value Decomposition (SVD)
     - Principal Component Analysis (PCA)
     - K-Means Clustering
-**2. Association Analysis**
+### 2. Association Analysis
     - Apriori
     - FP-Growth (Frequent Pattern Growth Algorithm)
-**4. Hidden Markov Model**
+### 3. Hidden Markov Model
 
 
 
