@@ -24,11 +24,11 @@
 ### 2. Association Analysis
   - Apriori
   - FP-Growth (Frequent Pattern Growth Algorithm)
-### 3. Hidden Markov Model
+### 3. Hidden Markov Model Algorithm
 
+______________________________________________________________
 
-
-## Datasets:
+### Datasets:
 **Support Vector Machine**
    - SVM-IMDB-Movie-Review-Data
        - Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
