@@ -2,22 +2,46 @@
 
 ![1](https://user-images.githubusercontent.com/30755050/173197478-8dc4cbd1-fbe6-4604-9782-25e76ac4d335.png)
 
+1. Supervised Learning
+2. Unsupervised Learning
+3. Semi-Supervised Learning
+4. Reinforcement Learning
+
+### Supervised Learning ALgorithms
 1. Linear Regression
 2. Logistic Regression
 3. Support Vector Machine
+4. Decision Tree Algorithm
+5. Random Forest Algorithm
+6. KNN - k-Nearest Neighbors
+7. Naive Bayes
+
+### UnSupervised Learning ALgorithms
+**1. Clustering**
+    - Singular Value Decomposition (SVD)
+    - Principal Component Analysis (PCA)
+    - K-Means Clustering
+**2. Association Analysis**
+    - Apriori
+    - FP-Growth (Frequent Pattern Growth Algorithm)
+**4. Hidden Markov Model**
+
+
+
+#### Datasets:
+**Support Vector Machine**
    - SVM-IMDB-Movie-Review-Data
        - Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
    - SVM-Spam Text Message Classification
-      - Dataset: Find in Support Vector Machine repo. 
-     
-4. Decision Tree Algorithm
+      - Dataset: Find in Support Vector Machine repo    
+**Decision Tree Algorithm**
    - Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-5. Random Forest Algorithm
+**Random Forest Algorithm**
    - Random-Forest-Credit-card-fraud-detection
       - Datasets - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-6. KNN - k-Nearest Neighbors
+**KNN - k-Nearest Neighbors**
     - Datasets: https://www.kaggle.com/datasets/vijayaadithyanvg/iris-dataset
-7. Naive Bayes
+**Naive Bayes**
    - Naive-Bayes-Text-Classification
       - Datasets: https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
    - MultiNomial-Naive-Bayes Spam-Filters-Data
