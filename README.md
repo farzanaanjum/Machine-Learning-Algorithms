@@ -48,3 +48,22 @@ ______________________________________________________________
       - Datasets: https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
 
 
+### Others Important AI | ML Repos --> Please do check out
+### Machine Learning For Beginners:
+https://github.com/microsoft/ML-For-Beginners
+
+### Machine Learning Projects:
+https://github.com/shsarv/Machine-Learning-Projects
+
+### AI/ML/DL/CV/NLP Projects:
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+### Best of ML with Python:
+https://github.com/ml-tooling/best-of-ml-python
+
+### Awesome Machine Learning:
+https://github.com/josephmisiti/awesome-machine-learning
+
+### Machine Learning Complete:
+https://github.com/Nyandwi/machine_learning_complete
+
