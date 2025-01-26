@@ -49,17 +49,18 @@ ______________________________________________________________
 
 ----------------------------------------------------
 
-# Others Important AI | ML Repos --> Please do check out
-## Machine Learning For Beginners:
+## Others Important AI | ML Repos --> Please do check out
+### Machine Learning For Beginners:
 https://github.com/microsoft/ML-For-Beginners
 
-## Machine Learning Projects:
+### Machine Learning Projects:
 https://github.com/shsarv/Machine-Learning-Projects
+https://github.com/anubhavshrimal/Machine-Learning
 
-## AI/ML/DL/CV/NLP Projects:
+### AI/ML/DL/CV/NLP Projects:
 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
-## Best of ML with Python:
+### Best of ML with Python:
 https://github.com/ml-tooling/best-of-ml-python
 
 ### Awesome Machine Learning:
@@ -67,4 +68,35 @@ https://github.com/josephmisiti/awesome-machine-learning
 
 ### Machine Learning Complete:
 https://github.com/Nyandwi/machine_learning_complete
+
+### Start Machine Learning:
+https://github.com/louisfb01/start-machine-learning
+
+### Machine Learning YouTube Courses:
+https://github.com/dair-ai/ML-YouTube-Courses
+
+### Mathematics For Machine Learning:
+https://github.com/mml-book/mml-book.github.io
+
+### Machine Learning Interview:
+https://github.com/khangich/machine-learning-interview
+
+### Machine Learning Book Pdf:
+https://github.com/janishar/mit-deep-learning-book-pdf
+
+### Machine Learning Zoomcamp:
+https://github.com/DataTalksClub/machine-learning-zoomcamp
+
+### Machine Learning Tutorials:
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+
+### machine Learning Cheatsheets:
+https://github.com/afshinea/stanford-cs-229-machine-learning
+
+### Awesome Production Machine Learning:
+https://github.com/EthicalML/awesome-production-machine-learning
+
+### Data Science - Machine Learning Project with Source Code:
+https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code
+
 
